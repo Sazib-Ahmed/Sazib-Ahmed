@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD. Sazib Ahmed
 - 👀 I’m interested in Graphics, Web development, AI, Data Science, Research.
-- 🌱 I’m currently learning Advance Web Technology.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 Reach me with Email: mail.sazibahmed@gmail.com
 
